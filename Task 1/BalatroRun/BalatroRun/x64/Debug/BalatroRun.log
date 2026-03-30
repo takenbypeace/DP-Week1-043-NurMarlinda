@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\LOQ\Documents\Kuliah\Design Pattern\DP-Week1-043-NurMarlinda\Task 1\BalatroRun\Rules.h(8,38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  BalatroRun.vcxproj -> C:\Users\LOQ\Documents\Kuliah\Design Pattern\DP-Week1-043-NurMarlinda\Task 1\BalatroRun\x64\Debug\BalatroRun.exe
